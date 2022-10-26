@@ -2,9 +2,9 @@
 
 Im **joshua Scalercio** also known as **TUWA**, and I'm a **Aspiring Coder** with 1 years of expertise in ** Web development**. I'd want to educate myself with new programming languages .<br><br>
 <a href="https://www.youtube.com/channel/UC19y12TYltTy4NUx3xDDyyQ"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img><br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Joshua+Scaler%C3%B1cio%2C+20+years+old;Front-end+Web+Developer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Joshua+Scaler%cio%2C+20+years+old;Front-end+Web+Developer;Software+Engineer)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/Gmail-tuwa2421@gmail.com-red)](mailto:joshuavergel.icthccd@gmail.com) [![](https://img.shields.io/badge/Linkedin-Joshua%20Scalercio%C3%B1as-blue)](https://www.linkedin.com/in/joshua-scalercio-85ba59201/)
+[![](https://img.shields.io/badge/Gmail-tuwa2421@gmail.com-red)](mailto:joshuavergel.icthccd@gmail.com) [![](https://img.shields.io/badge/Linkedin-Joshua%20Scalercio-blue)](https://www.linkedin.com/in/joshua-scalercio-85ba59201/)
 
 ### How to reach me: 
 <a href="mailto: joshuavergel.icthccd@gmail.com">
