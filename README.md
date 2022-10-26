@@ -12,7 +12,7 @@ Im **Joshua Scalercio** also known as **TUWA**, and I'm a **Aspiring Coder** wit
 
 ### Current Status Quo:
 
-- 💼 Software Engineer <strong>React.js/ Javascript</strong>.
+- 💼 IT Student <strong>Java/ PHP</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and Software Engineering</strong> Industry.
 - 💬 Feel free to discuss with me about <strong> Web Development</strong>
 
