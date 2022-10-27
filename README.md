@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/IX2sn8cnqDyRq/giphy.gif)
+![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
 Im Joshua Scalercio also known as TUWA, and I'm a **Aspiring Coder** with experience in Web development. I'd want to educate myself with new programming languages .<br><br>
